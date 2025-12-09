@@ -1,9 +1,9 @@
-AI-Based Human Face Aging and Rejuvenation
-GAN (cGAN) • U-Net Generator • PatchGAN Discriminator
+# AI-Based Human Face Aging and Rejuvenation
+## GAN (cGAN) • U-Net Generator • PatchGAN Discriminator
 
 This repository implements an AI-based system for face aging and face rejuvenation using a conditional Generative Adversarial Network (cGAN) framework. The model takes a face image and a target age group as input and outputs an age-progressed or age-regressed (younger/older) version of the same identity.
 
-🚀 Features
+# 🚀 Features
 
 Age progression & regression using a single unified model
 

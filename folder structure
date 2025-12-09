@@ -1,0 +1,38 @@
+face-aging-gan/
+│
+├── data/
+│   ├── utkface/
+│
+├── models/
+│   ├── generator.py
+│   ├── discriminator.py
+│
+├── test_images/
+│   ├── img1.jpg
+│   ├── img2.jpg
+
+│
+├── output_images/
+│
+├── train.py
+├── test.py
+├── utils.py
+├── streamlit_app.py
+└── saved_models/
+    ├── generator.pth
+    ├── discriminator.pth
+
+AI HUMAN FACE AGING/
+│
+├── data/               ← training images
+├── models/
+│   ├── generator.py
+│   ├── discriminator.py
+│   └── __init__.py     ✅ important (even if empty)
+│
+├── utils.py
+├── train.py
+├── test.py
+├── streamlit_app.py
+└── saved_models/       ← trained weights save honge
+
